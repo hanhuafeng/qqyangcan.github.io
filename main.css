@@ -1,0 +1,18 @@
+.first{
+	color:blue; 
+}
+
+
+.second{
+	color: red;
+}
+
+
+#header{
+	background: purple;
+	color: yellow;
+}
+#footer{
+	background: blue;
+	color: white;
+}
