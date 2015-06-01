@@ -1,0 +1,29 @@
+h1{
+	color:pink;
+    text-align: center;
+}
+h2{
+	color:white;
+	background: pink;
+	text-align: center;
+	width: 150px;
+}
+p{
+	color: black;
+}
+#header{
+	background: greenyellow;
+	color:white;
+	height: 30px;
+	font-size: 20px;
+	padding: 5px; 
+	text-align: center;
+}
+#footer{
+	background: greenyellow;
+	color: white;
+	height: 30px;
+	font-size: 20px;
+	padding: 5px;
+	text-align: center;
+}
